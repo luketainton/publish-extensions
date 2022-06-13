@@ -1178,6 +1178,9 @@
     "repository": "https://github.com/Tyriar/vscode-sort-lines",
     "prepublish": "yarn compile"
   },
+  "tyriar.theme-sapphire": {
+    "repository": "https://github.com/Tyriar/vscode-theme-sapphire"
+  },
   "Tyriar.windows-terminal": {
     "repository": "https://github.com/Tyriar/vscode-windows-terminal"
   },
